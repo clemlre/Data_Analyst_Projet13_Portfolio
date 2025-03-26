@@ -25,7 +25,7 @@ Chaque dossier correspond à un livrable spécifique demandé dans le cadre du p
 | `Gantt Données.xlsx` | Fichier Excel contenant les données utilisées pour la planification du projet. |
 | `Loire_Clement_GanttChart.pbix` | Fichier Power BI illustrant le diagramme de Gantt pour la planification du projet. |
 | `Clément_Loire_Documentation_PBI.pdf` | Guide utilisateur pour la prise en main de l'outil Power BI utilisé dans le projet. |
-| `Clément_Loire_Lien_Video_Formation.txt` | Lien vers une vidéo de formation complémentaire en lien avec le projet. |
+| `Clément_Loire_Lien_Video_Formation.txt` | Lien vers la [vidéo](https://youtu.be/ZYH5IJp-tp8) de formation à Power BI en lien avec le projet. |
 | `Clément_Loire_Synthèse_Veille.pdf` | Fichier pdf présentant une synthèse du processus de Veille effectué |
 | `Clément_Loire_Lien_DashBoard_Veille.pbix` | Fichier Power BI illustrant le processus de Veille Métier et Technologique effectué |
 
